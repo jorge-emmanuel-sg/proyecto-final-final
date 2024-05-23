@@ -1,0 +1,42 @@
+.caja-1{
+	position: relative;
+	left: 180px;
+}
+#cuadrado
+{
+	  position: relative;
+	  left: -350px;
+	  bottom: 50xp ;
+	  top: 2px;
+}
+#copa
+{
+	  position: relative;
+	  left: 350px;
+	  bottom: 50xp ;
+	  top: -550px;
+}
+#figura
+{
+	  position: relative;
+	  left: -10px;
+	  bottom: 50xp ;
+	  top: -980px;
+}
+.contenedor 
+{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top: 50px;
+}
+.cabecera
+{
+	background-color: red;
+	color: black;
+	text-align: center;
+	padding: 20px 0;
+	position: fixed;
+	width: 100%;
+	top: 0px;
+}
